@@ -10,7 +10,7 @@ env:
   AZURE_LOCATION: '"Central US"'
   #################################################    
   ### USER PROVIDED VALUES ARE REQUIRED BELOW   ###
-  #################################################
+  #################################################  
   #################################################
   ### REPLACE USERNAME WITH GH USERNAME         ###
   AZURE_WEBAPP_NAME: AndreyVAndreev-ttt-app
